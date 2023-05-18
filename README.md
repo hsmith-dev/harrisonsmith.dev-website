@@ -60,7 +60,8 @@ of plausible.
 Support for more analytics platforms is a welcome suggestion, as long as they respect user privacy.
 
 ## Acknowledgements
+Template adapted from Thomas Jack (tajacks)'s lightspeed
 
 CSS styles adapted and modified from Jeremy Thomas' 'Web Design in 4 Minutes'. 
 
-Theme spacing, colours, and content layout feedback provided by my wife ♥
+Theme spacing, colours, and content layout feedback provided by Thomas Jack's wife.
