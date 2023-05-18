@@ -1,10 +1,8 @@
-# LightSpeed
+# harrisonsmith.dev website
 
 ## About
 
-LightSpeed A fast, simple, and privacy-respecting Jekyll theme. 
-This theme acts as a landing page / personal website with post support. This theme was primarily created to act as a 
-template for my personal website.
+A simple website adapted from tajacks/lightspeed for harrisonsmith.dev which is a personal website to find updates from Harrison Smith, or contact him.
 
 ## Requirements
 
